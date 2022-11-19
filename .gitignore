@@ -1,5 +1,10 @@
-# Ignore all hidden files
+# Hidden files
 /**/.*
 
-# Except
+# Folder config file
+Desktop.ini
+
+# Files and folders that can be generated from the code
+
+# Exceptions
 !.gitignore
