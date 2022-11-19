@@ -2,7 +2,7 @@
 
 ## Team S3
 
-<img src="Rising-IT.png" width="30%" height="30%">
+<img src="Rising-IT.png" width="30%" height="30%" style="background-color:white;>
 
 | Name | Surname | E-mail | Specialization |
 | --- | --- | --- | --- |
