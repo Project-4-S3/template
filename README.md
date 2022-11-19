@@ -1,9 +1,10 @@
-<img src="media/Rising-IT.jpg" width="25%" height="25%" align="right">
-
 # Project 4.0 - Team S3 - Onderwerp
 > IT Factory - Thomas More Geel
 
 ## Team S3
+<p align="center">
+    <img src="media/Rising-IT.jpg" width="30%" height="30%">
+</p>
 
 | Name | Surname | E-mail | Specialization |
 | --- | --- | --- | --- |
@@ -15,3 +16,16 @@
 | Lander | Wuyts | lander.wuyts@student.thomasmore.be | Cloud & Cybersecurity |
 
 ## Beschrijving
+Kort uitleggen wat het doel is van deze repo.
+
+### Installatie
+Kort uitleggen wat de minimale setup is.
+
+```shell
+code
+```
+
+Verduidelijking van de code.
+
+### Uitvoeren
+Verduidelijken hoe een developper de code moet gebruiken.
