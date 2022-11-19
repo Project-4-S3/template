@@ -1,7 +1,9 @@
 # Project 4.0 - Team S3 - <subject>
 
 ## Team S3
-![Rising-IT](Rising-IT.png)
+
+<img src="Rising-IT.png" width="30%" height="30%">
+
 | Name | Surname | E-mail | Specialization |
 | --- | --- | --- | --- |
 | Hilde | Hemelaers | hilde.hemelaers@student.thomasmore.be | Application Development |
