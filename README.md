@@ -1,9 +1,8 @@
+<img src="media/Rising-IT.jpg" width="25%" height="25%" align="right">
 # Project 4.0 - Team S3 - <onderwerp>
+> IT Factory - Thomas More Geel
 
 ## Team S3
-<p align="center">
-    <img src="media/Rising-IT.jpg" width="30%" height="30%">
-</p>
 
 | Name | Surname | E-mail | Specialization |
 | --- | --- | --- | --- |
