@@ -1,4 +1,4 @@
-# Project 4.0 - Team S3 - <subject>
+# Project 4.0 - Team S3 - <onderwerp>
 
 ## Team S3
 <p align="center">
