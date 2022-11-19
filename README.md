@@ -1,8 +1,9 @@
 # Project 4.0 - Team S3 - <subject>
 
 ## Team S3
-
-<img src="Rising-IT.png" width="30%" height="30%" style="background-color:white;">
+<p align="center">
+    <img src="media/Rising-IT.jpg" width="30%" height="30%">
+</p>
 
 | Name | Surname | E-mail | Specialization |
 | --- | --- | --- | --- |
