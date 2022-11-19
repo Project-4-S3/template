@@ -1,9 +1,7 @@
 # Project 4.0 - Team S3 - <subject>
 
 ## Team S3
-<img align="right" src="media/Rising-IT.jpg" width="30%" height="30%">
-
-| Name | Surname | E-mail | Specialization |
+<img align="right" src="media/Rising-IT.jpg" width="30%" height="30%">| Name | Surname | E-mail | Specialization |
 | --- | --- | --- | --- |
 | Hilde | Hemelaers | hilde.hemelaers@student.thomasmore.be | Application Development |
 | Viktor | Nagels | viktor.nagels@student.thomasmore.be | Cloud & Cybersecurity |
