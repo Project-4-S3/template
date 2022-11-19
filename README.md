@@ -1,5 +1,6 @@
 <img src="media/Rising-IT.jpg" width="25%" height="25%" align="right">
-# Project 4.0 - Team S3 - <onderwerp>
+
+# Project 4.0 - Team S3 - Onderwerp
 > IT Factory - Thomas More Geel
 
 ## Team S3
